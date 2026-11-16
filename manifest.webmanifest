@@ -1,16 +1,14 @@
 {
-  "id": ".",
-  "name": "DUKAAN - Dev Automobiles",
-  "short_name": "DUKAAN",
-  "description": "Offline shop management for Dev Automobiles",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "orientation": "portrait",
-  "background_color": "#101915",
-  "theme_color": "#101915",
-  "icons": [
-    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  "name":"DUKAAN by DEV AUTOMOBILES",
+  "short_name":"DUKAAN",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#07130f",
+  "theme_color":"#07130f",
+  "description":"Offline-first shop management app",
+  "icons":[
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}
   ]
 }
